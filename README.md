@@ -1,0 +1,2 @@
+# SecondBrain_Logseq
+Notes
